@@ -71,7 +71,7 @@ function setup() {
   strokeWeight(sweight);
   //noLoop()
   // frameRate(1/5);
-  frameRate(1/15);
+  frameRate(1/10);
 }
 
 function draw() {
